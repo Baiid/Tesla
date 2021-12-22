@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.17334cfa.css",
-    "main.js": "/static/js/main.8b6c3dca.js",
+    "main.js": "/static/js/main.abe0d0db.js",
     "static/js/27.891f701d.chunk.js": "/static/js/27.891f701d.chunk.js",
     "static/media/solar-roof.jpg": "/static/media/solar-roof.acfd904501bf0bea5f9c.jpg",
     "static/media/solar-panel.jpg": "/static/media/solar-panel.d7d441d74e34d37c2c00.jpg",
@@ -16,6 +16,6 @@
   },
   "entrypoints": [
     "static/css/main.17334cfa.css",
-    "static/js/main.8b6c3dca.js"
+    "static/js/main.abe0d0db.js"
   ]
 }
