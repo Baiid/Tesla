@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.17334cfa.css",
+    "main.js": "/static/js/main.abe0d0db.js",
+    "static/js/27.891f701d.chunk.js": "/static/js/27.891f701d.chunk.js",
+    "static/media/solar-roof.jpg": "/static/media/solar-roof.acfd904501bf0bea5f9c.jpg",
+    "static/media/solar-panel.jpg": "/static/media/solar-panel.d7d441d74e34d37c2c00.jpg",
+    "static/media/model-y.jpg": "/static/media/model-y.30acb76aab6f760a753a.jpg",
+    "static/media/new-interior.jpg": "/static/media/new-interior.16586851d57ecfbc22a3.jpg",
+    "static/media/model-3.jpg": "/static/media/model-3.30651f796c26e128fa1b.jpg",
+    "static/media/model-x.jpg": "/static/media/model-x.25937b941a6599342671.jpg",
+    "static/media/model-s.jpg": "/static/media/model-s.b65171b9fc7d94857753.jpg",
+    "static/media/logo.svg": "/static/media/logo.a7b59bc6aae7059ffd7b4a18a105eb72.svg",
+    "index.html": "/index.html",
+    "static/media/down-arrow.svg": "/static/media/down-arrow.9b52668fb01a76a29986dae3032abd3f.svg"
+  },
+  "entrypoints": [
+    "static/css/main.17334cfa.css",
+    "static/js/main.abe0d0db.js"
+  ]
+}
