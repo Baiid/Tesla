@@ -1,0 +1,3 @@
+- Website build in React
+- Used Redux for maping navigation bar 
+- React hooks for mobile menu where I handle opening and closing state
